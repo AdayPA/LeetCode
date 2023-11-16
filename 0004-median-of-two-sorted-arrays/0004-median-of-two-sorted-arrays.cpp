@@ -27,13 +27,6 @@ public:
         p2++;
     }
 
-    // Imprimir el resultado
-    cout << "Merged Vector: ";
-    for (int num : result) {
-        cout << num << " ";
-    }
-    cout << endl;
-
     // Calcular y devolver la mediana
     if (totalSize % 2 == 0) {
         return (result[(totalSize - 1) / 2] + result[totalSize / 2]) / 2.0;
