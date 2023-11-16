@@ -1,6 +1,4 @@
-![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
- 
-[![Problemas Resueltos](https://img.shields.io/badge/Problemas%20Resueltos-0.14%25-brightgreen)](https://leetcode.com/AdayPA/)
+![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) [![Problemas Resueltos](https://img.shields.io/badge/Problemas%20Resueltos-0.14%25-brightgreen)](https://leetcode.com/AdayPA/)
 
 # Proyectos de LeetCode
 
