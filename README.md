@@ -9,7 +9,7 @@ Este repositorio contiene mis soluciones a los problemas de LeetCode. Estoy util
 He resuelto los siguientes problemas:
 
 1. [Two Sum](./0001-two-sum)
-2. [Add Two Numbers](./0002-Add-Two-Numbers)
+2. [Add Two Numbers](./0002-add-two-numbers)
 3. [Longest Substring Without Repeating Characters](./0003-Longest-Substring-Without-Repeating_Characters.cpp)
 4. [Median of Two Sorted Arrays](./Problemas/004_Median_of_Two_Sorted_Arrays.cpp)
 
