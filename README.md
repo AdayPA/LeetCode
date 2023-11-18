@@ -8,17 +8,21 @@ Este repositorio contiene mis soluciones a los problemas de LeetCode. Estoy util
 
 He resuelto los siguientes problemas:
 
-1. [Two Sum](./0001-two-sum)
-2. [Add Two Numbers](./0002-add-two-numbers)
-3. [Longest Substring Without Repeating Characters](./0003-Longest-Substring-Without-Repeating_Characters.cpp)
-4. [Median of Two Sorted Arrays](./Problemas/004_Median_of_Two_Sorted_Arrays.cpp)
+1. [Two Sum](https://leetcode.com/problems/two-sum/) ([C++](./0001-two-sum))
+2. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) ([C++](./0002-add-two-numbers))
+3. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) ([C++](./0003-Longest-Substring-Without-Repeating_Characters.cpp))
+4. [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) ([C++](./004_Median_of_Two_Sorted_Arrays.cpp))
+5. [Palindrome Number](https://leetcode.com/problems/palindrome-number/) ([C++](./0009-palindrome-number))
+6. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) ([C++](./0014-longest-common-prefix))
+7. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) ([C++](./0020-valid-parentheses))
+8. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) ([C++](./0021-merge-two-sorted-lists))
+9. [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) ([C++](./0058-length-of-last-word))
+
 
 ## Por hacer
 
 Estoy trabajando actualmente en los siguientes problemas:
 
-5. [Longest Palindromic Substring](./Problemas/005_Longest_Palindromic_Substring.cpp)
-   - ...
 
 ## Contribuciones
 
