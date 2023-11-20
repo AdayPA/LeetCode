@@ -17,7 +17,6 @@ bool isPalindrome(string s) {
         left++;
         right--;
     }
-
     return true;
 }
 };
