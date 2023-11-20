@@ -2,25 +2,20 @@ class Solution {
 public:
 bool isPalindrome(string s) {
     string result;
-    stack<char> charStack;
-
-    // Procesar la cadena y eliminar caracteres no alfanuméricos
     for (char c : s) {
-        if (isalnum(c)) { // Comprobar si el caracter es alfanumérico
-            result.push_back(tolower(c)); // Convertir a minúsculas
-            charStack.push(tolower(c));
+        if (isalnum(c)) { 
+            result.push_back(tolower(c)); 
         }
     }
-
-    // Verificar si la cadena es un palíndromo
-    while (!charStack.empty()) {
-        if (charStack.top() != result.front()) {
+    int left = 0;
+    int right = result.size() - 1;
+    while (left < right) {
+        if (result[left] != result[right]) {
             return false;
         }
-        result.erase(result.begin()); // Eliminar el primer carácter
-        charStack.pop();
+        left++;
+        right--;
     }
-
     return true;
 }
 };
