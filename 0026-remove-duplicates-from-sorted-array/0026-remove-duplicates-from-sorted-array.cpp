@@ -1,18 +1,19 @@
 class Solution {
 public:
-int removeDuplicates(vector<int> &nums)
-{   
-    int actual_num;
-    int unique = 0;
-    vector<int> myvector;
-    for (int i = 0; i < nums.size(); i++) {
-        if (actual_num != nums.at(i)) {
-            unique++;
-            myvector.push_back(nums.at(i));
-            actual_num = nums.at(i);
+int removeDuplicates(vector<int> &nums){
+    if (nums.empty()) {
+        return 0;
+    }
+
+    int unique = 1;  // At least one unique element
+
+    for (int i = 1; i < nums.size(); ++i) {
+        if (nums[i] != nums[i - 1]) {
+            nums[unique++] = nums[i];
         }
     }
-    nums = myvector;
+
+    nums.resize(unique);
     return unique;
 }
 };
