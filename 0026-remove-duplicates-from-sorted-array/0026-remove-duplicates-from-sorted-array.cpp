@@ -10,8 +10,6 @@ int removeDuplicates(vector<int> &nums)
             unique++;
             myvector.push_back(nums.at(i));
             actual_num = nums.at(i);
-        }else {
-
         }
     }
     nums = myvector;
