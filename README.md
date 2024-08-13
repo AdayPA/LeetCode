@@ -2,7 +2,7 @@
 
 # Proyectos de LeetCode
 
-Este repositorio contiene mis soluciones a los problemas de LeetCode. Estoy utilizando este espacio para mejorar mis habilidades de programación y prepararme para entrevistas técnicas.
+Este repositorio contiene mis soluciones a los problemas de LeetCode. Estoy utilizando este espacio para recordar y mejorar mis habilidades de programación.
 
 ## Progreso
 
@@ -17,7 +17,7 @@ He resuelto los siguientes problemas:
 7. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) ([C++](./0020-valid-parentheses))
 8. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) ([C++](./0021-merge-two-sorted-lists))
 9. [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) ([C++](./0058-length-of-last-word))
-13. [Roman to Integer]([https://[leetcode.com/problems/length-of-last-word/]) ([C++](./0013-roman-to-integer))
+13. [Roman to Integer]([[https://[leetcode.com/problems/length-of-last-word/]](https://leetcode.com/problems/roman-to-integer/description/)) ([C++](./0013-roman-to-integer))
 
 
 ## Por hacer
