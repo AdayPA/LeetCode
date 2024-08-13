@@ -37,3 +37,15 @@ Siéntete libre de sugerir mejoras en mis soluciones o compartir tus propias sol
 
 
 Happy coding! 🚀
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/AdayPA/LeetCode/tree/master/0190-reverse-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/AdayPA/LeetCode/tree/master/0190-reverse-bits) |
+<!---LeetCode Topics End-->
