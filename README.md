@@ -54,6 +54,7 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/AdayPA/LeetCode/tree/master/0067-add-binary) |
+| [0263-ugly-number](https://github.com/AdayPA/LeetCode/tree/master/0263-ugly-number) |
 ## String
 |  |
 | ------- |
