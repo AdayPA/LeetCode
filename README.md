@@ -50,6 +50,7 @@ Happy coding! 🚀
 | ------- |
 | [0067-add-binary](https://github.com/AdayPA/LeetCode/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/AdayPA/LeetCode/tree/master/0190-reverse-bits) |
+| [0338-counting-bits](https://github.com/AdayPA/LeetCode/tree/master/0338-counting-bits) |
 ## Math
 |  |
 | ------- |
@@ -75,4 +76,8 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/AdayPA/LeetCode/tree/master/0217-contains-duplicate) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/AdayPA/LeetCode/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
