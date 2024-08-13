@@ -62,4 +62,16 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/AdayPA/LeetCode/tree/master/0067-add-binary) |
+## Array
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/AdayPA/LeetCode/tree/master/0217-contains-duplicate) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/AdayPA/LeetCode/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/AdayPA/LeetCode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
