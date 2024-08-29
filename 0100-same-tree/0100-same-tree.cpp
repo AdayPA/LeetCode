@@ -22,8 +22,6 @@ bool isSameTree(TreeNode *p, TreeNode *q)
     if (p->val != q->val) { 
         return false; 
     }
-    bool right = isSameTree(p->right, q->right);
-    bool left = isSameTree(p->left, q->left);
-    return right && left;
+    return isSameTree(p->right, q->right) && isSameTree(p->left, q->left);
 }
 };
